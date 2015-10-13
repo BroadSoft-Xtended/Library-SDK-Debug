@@ -1,1 +1,1 @@
-module.exports = require('./lib/debug');
+module.exports = {model: require('./lib/debug')};
