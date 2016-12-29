@@ -7,12 +7,12 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "bdsft-sdk-model": "BroadSoft-Xtended/Library-SDK-Model.git",
-    "bdsft-sdk-utils": "BroadSoft-Xtended/Library-SDK-Utils.git",
+    "bdsft-sdk-model": "BroadSoft-Xtended/Library-SDK-Model",
+    "bdsft-sdk-utils": "BroadSoft-Xtended/Library-SDK-Utils",
     "debug": "^2.2.0"
   },
   "devDependencies": {
-    "bdsft-sdk-test": "BroadSoft-Xtended/Library-SDK-Test.git",
+    "bdsft-sdk-test": "BroadSoft-Xtended/Library-SDK-Test",
     "mocha": "2.1.0",
     "expect": "1.6.0"
   },
